@@ -117,7 +117,6 @@ class FInteraction {
             type = 4,
             embed,
             embeds = [],
-            components = options.components,
             tts = false,
             flags
         } = options;
@@ -128,7 +127,6 @@ class FInteraction {
             type: type,
             content: content,
             embeds: embeds,
-            components: components,
             tts: tts,
             flags: flags
          } })

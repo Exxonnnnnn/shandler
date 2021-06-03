@@ -565,4 +565,3 @@ module.exports = {
 ```
 
 ![Slash Commands](https://i.imgur.com/7SoToK5.png)
-

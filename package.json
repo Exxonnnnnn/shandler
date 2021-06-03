@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/GmBodhi/shandler#readme",
   "keywords": [
     "slash",
     "slash commands",
@@ -14,15 +13,18 @@
     "handler",
     "slash commands handler"
   ],
+  "author": "GmBodhi",
   "license": "ISC",
-  "main": "js/index.js",
-  "name": "shandler",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GmBodhi/shandler.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bugs": {
+    "url": "https://github.com/GmBodhi/shandler/issues"
+  },
+  "homepage": "https://github.com/GmBodhi/shandler#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
   },
   "devDependencies": {
     "@types/node": "^14.14.37",
